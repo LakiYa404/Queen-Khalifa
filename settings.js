@@ -47,7 +47,7 @@ global.linkz = "https://youtu.be/u3ffhqq-kQE" //your theme url which will be dis
 global.websitex = "https://youtube.com/c/LAKiYAYT" //ur website to be displayed
 global.botscript = 'https://github.com/LakiYa404/Queen-Khalifa' //script link
 global.reactmoji = "🍆" //ur menu react emoji
-global.themeemoji = "🍆" //ur theme emoji
+global.themeemoji = "🍒" //ur theme emoji
 global.packname = "© Ｑᴜꫀꫀꪀ-K𝚑ᴀʟɪ𝚏ᴀ.!°" //ur sticker watermark packname
 global.author = "LakiYa 😌" //ur sticker watermark author
 
@@ -91,8 +91,8 @@ global.mess = {
     group: '*Huh! women! Use this cmd in groups!*',
     private: 'Features Used Only For Private Chat!',
     bot: '*This Feature Is Only For Khalifa🍆*',
-    wait: '*Hahaha, Pls wait !🍆*',
-    linkm: '*Where is the link? 🍆*',
+    wait: '*Hahaha, Pls wait !🍒*',
+    linkm: '*Where is the link? 🍑*',
     error: '*Error 😒!!*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',

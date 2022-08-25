@@ -1,8 +1,8 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "Queen-Khalifa",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DGXeon/CheemsBot-MD4",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/LakiYa404/Queen-Khalifa",
+  "logo": "https://i.ibb.co/rpxZ1YC/Picsart-22-08-21-19-27-23-002.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
